@@ -1,0 +1,15 @@
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\bin\Debug\netcoreapp2.1\WeatherChatBotDemo.deps.json
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\bin\Debug\netcoreapp2.1\WeatherChatBotDemo.runtimeconfig.json
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\bin\Debug\netcoreapp2.1\WeatherChatBotDemo.runtimeconfig.dev.json
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\bin\Debug\netcoreapp2.1\WeatherChatBotDemo.dll
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\bin\Debug\netcoreapp2.1\WeatherChatBotDemo.pdb
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.csprojAssemblyReference.cache
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.csproj.CoreCompileInputs.cache
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.RazorAssemblyInfo.cache
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.RazorAssemblyInfo.cs
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.AssemblyInfoInputs.cache
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.AssemblyInfo.cs
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.RazorTargetAssemblyInfo.cache
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.dll
+C:\Users\demet\source\repos\WeatherChatBotDemo\WeatherChatBotDemo\obj\Debug\netcoreapp2.1\WeatherChatBotDemo.pdb
